@@ -1,1 +1,1 @@
-# Wimpus-AI
+# Wumpus-AI
