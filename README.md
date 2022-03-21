@@ -9,7 +9,7 @@ agent for the Wumpus game, using Prolog, a logic programming language associated
   
   
   
-#Running
+# Running
 
 Once the enviroment is opened, type the following query on the Prolog environment:
 start.
